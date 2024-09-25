@@ -1,7 +1,7 @@
 package com.example.project;
 
 public class Calculator{
-    private String calcModel;
+    public String calcModel;
     
     //constructor that creates an instance of the calculator class
     public Calculator(String Model) {
